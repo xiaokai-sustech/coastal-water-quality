@@ -1,0 +1,7 @@
+Program descriptions
+The package WQI includes the main program WQI, the Entropy program and the AHP program. The operation steps are as follow:
+
+1. Unzip the compressed format file.
+2. Modify the corresponding input files of AHP (.txt files) and Entropy (.csv files). Then run the programs without additional changes and the results will be shown in corresponding output files.
+3. Copy the weight results (output-AHP.txt & output-Engropy.txt) to the “input-weight-WQI.txt”. Note that the results of AHP and Entropy referred to Wsi and Woi, respectively. The values or concentrations of the “input-lab-WQI.csv” should be changed according to the results obtained in labs.
+4. Run the main program (WQI.py) to get the water quality index scores, which is stored in “output-WQI.txt”. Code modifications are not required in the main program.

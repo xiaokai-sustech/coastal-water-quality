@@ -1,0 +1,17 @@
+      	limits 
+pH	7.8
+DO	6
+BOD	1
+Ss	10
+CHa-a	1
+COD	2
+Sulfide	20
+NO3	0.2
+NH4	0.02
+NO2	0.2
+PO4	0.015
+Zn	20
+Cd	1
+Hg	0.05
+Pb	1
+Cu	5
